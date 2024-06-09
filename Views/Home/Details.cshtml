@@ -1,0 +1,52 @@
+﻿@using WebApplication4.ViewModels;
+@model ViewDetails
+
+
+@{
+    ViewBag.Title = "Employee Details";
+}
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.hotel.Name</h1>
+            </div>
+
+            <div class="card-body text-center">
+                @{
+                    string PhotoPath = "~/Images/" + @Model.hotel.PhotoUrl;
+                }
+                <img style="width: 200px" src="@PhotoPath" class="card-img-top imageThumbnail" asp-append-version="true" />
+
+                <h4>Employee ID : @Model.hotel.Id</h4>
+                <h4>Email : @Model.hotel.Mail</h4>
+                <h4>Department : @Model.hotel.City</h4>
+
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="home" asp-action="index" class="btn btn-primary">Back</a>
+                <a asp-controller="home" asp-action="Delete"
+                   asp-route-id="@Model.hotel.Id" class="btn btn-primary m-1">Delete</a>
+                @{
+                    if (Model.hotel.Booking == false)
+                    {
+                        <a asp-controller="home" asp-action="Booking"
+                        asp-route-id="@Model.hotel.Id" class="btn btn-primary m-1">Booking</a>
+                    }
+                    else
+                    {
+                        <a asp-controller="home" asp-action="Booking"
+                           asp-route-id="@Model.hotel.Id" class="btn btn-primary m-1">Unbooking</a>
+                    }
+
+                   }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/CustomScript.js"></script>
+}

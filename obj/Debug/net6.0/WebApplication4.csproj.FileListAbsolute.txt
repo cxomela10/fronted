@@ -1,0 +1,434 @@
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\teacher\source\repos\WebApplication4\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\New folder (2)\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\cxome\Desktop\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-01\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\cxome\Desktop\Project\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\cxome\Desktop\Project_hotel_V-02\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\appsettings.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.exe
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.deps.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.runtimeconfig.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.AssemblyInfo.cs
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.csproj.CopyComplete
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\refint\WebApplication4.dll
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.pdb
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\WebApplication4.genruntimeconfig.cache
+C:\Users\cxome\Desktop\Final_project\Backend\WebApplication4\obj\Debug\net6.0\ref\WebApplication4.dll

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Hotel>
+
+<div class="card-deck">
+
+    @foreach (var hotel in Model)
+    {
+      
+        string PhotoPath = "~/Images/" + hotel.PhotoUrl;
+        <div class="card m-3">
+            <div class="card-header">
+                <img style="width: 200px" src="@PhotoPath" class="card-img-top imageThumbnail" asp-append-version="true"/>
+                <h3>@hotel.Name</h3>
+                <h3>@hotel.City</h3>
+                <h3>@hotel.Mail</h3>
+                <h3>@hotel.Description</h3>
+                <h3>@hotel.Id</h3>
+                <h3>@hotel.PhoneNumber</h3>
+                <a asp-controller="home" asp-action="details"
+                   asp-route-id="@hotel.Id" class="btn btn-primary m-1">View</a>
+            </div>
+        </div>
+    }
+</div>
